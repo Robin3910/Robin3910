@@ -9,7 +9,6 @@ Robin3910/Robin3910 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-**2022 ✨key words✨:**
 * web crawler/sprider for instagram, youtube, tiktok.
 * auto-bot for some crypto trading strategy
 
